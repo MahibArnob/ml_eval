@@ -1,0 +1,43 @@
+
+    ML Evaluation Framework Comparison Report
+    =========================================
+    Total Assignments: 100
+    
+    Metric 1: Correct Code Recognition (True Positive Rate)
+    -------------------------------------------------------
+    MQL System Pass Rate: 78/100 (78.00%)
+    ChatGPT Pass Rate:    100/100 (100.00%)
+    
+    Metric 2: Buggy Code Detection (True Negative Rate)
+    ---------------------------------------------------
+    MQL System Rejection Rate: 56/100 (56.00%)
+    ChatGPT Rejection Rate:    33/100 (33.00%)
+    
+    Average Scores
+    --------------
+    MQL Correct: 8.24
+    MQL Buggy:   4.14
+    GPT Correct: 10.00
+    GPT Buggy:   6.22
+    
+    Detailed Sample (First 3)
+    -------------------------
+    
+Assignment: Mall_Cust_Dataset_f976700d_q_0
+  MQL Correct: 10.0 | Feedback: Excellent work! Your Python code correctly impleme...
+  GPT Correct: 10.0 | Feedback: The student solution is correct and matches the re...
+  MQL Buggy:   7.0   | Feedback: You used 3 clusters in your KMeans algorithm, but ...
+  GPT Buggy:   7.0   | Feedback: The student solution is mostly correct but has a s...
+--------------------------------------------------
+Assignment: Breast_Cancer_Dataset_ad178fe4_q_1
+  MQL Correct: 10.0 | Feedback: Your implementation is correct. You have successfu...
+  GPT Correct: 10.0 | Feedback: The student solution is correct and meets all the ...
+  MQL Buggy:   0.0   | Feedback: MQL Conversion Failed: ['EOL while scanning string...
+  GPT Buggy:   9.0   | Feedback: The student solution is mostly correct and follows...
+--------------------------------------------------
+Assignment: Boston_Dataset_b8b4974a_q_2
+  MQL Correct: 4.2 | Feedback: You trained a model named `Price_Prediction` inste...
+  GPT Correct: 10.0 | Feedback: The student solution is correct and follows all th...
+  MQL Buggy:   4.2   | Feedback: You trained a model to predict 'crim' instead of '...
+  GPT Buggy:   4.0   | Feedback: The student solution correctly follows most of the...
+--------------------------------------------------

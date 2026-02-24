@@ -1,0 +1,22 @@
+
+    ML Evaluation Analysis Report
+    =============================
+    Total Assignments: 2
+    Pass Rate (>=7.0): 100.00%
+    Average Score:     10.00 / 10.0
+    Semantic Match Rate: 100.00%
+    
+    Detailed Analysis
+    -----------------
+    
+    ID: Mall_Cust_Dataset_f976700d_q0
+    Score: 10.0
+    Semantic Match: True
+    Issues: []
+------------------------------
+
+    ID: Mall_Cust_Dataset_f976700d_q1
+    Score: 10.0
+    Semantic Match: True
+    Issues: []
+------------------------------
